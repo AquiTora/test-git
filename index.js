@@ -1,1 +1,2 @@
-console.log(`Its Higurashi, babe`);
+const kurseNumber = 101;
+console.log(`Its Higurashi ${kurseNumber}, babe`);
